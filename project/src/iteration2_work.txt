@@ -1,0 +1,5 @@
+Kyle Doerrler, doerr029
+Liyu Qiang, qiang008
+
+--Division of Work Statement Iter2--
+We approached iteration 2 of the course project similarly to the first. The overall design for the inclusion of the parser and the writing of its tests was decided together. We used a lot of pair programming to help resolve issues and to work through the extension of the makefile and the creation of the sample program. In addition, when one of us found some errors or ran into problems in our programs, we collaborated and tried to fix the errors together. Based on the tasks laid out in the assignment doc, the makefile and squares program was completed collaboratively, Liyu took the lead in implementing the updated token types and verifying testing, and Kyle revised the code for efficiency and to correctly adhere to google style. We had previously finished the entirity of iteration 1 so there was relatively little work to do on this portion of the course project.

@@ -1,0 +1,5 @@
+Kyle Doerrler, doerr029
+Liyu Qiang, qiang008
+
+--Division of Work Statement Writing Assignment 1--
+We approached the writing assignment by splitting the problems evenly between us with Kyle primarily working on #1-3 and Liyu focusing on #4-6. Each of us fixed the necessary coding issues with their problems and then wrote the drafts for the paper. Once this process was done Kyle took the lead on the introduction and conclusion and editing was done collaboratively. We worked in Google Docs to foster easier collaboration and editing throughout the process.

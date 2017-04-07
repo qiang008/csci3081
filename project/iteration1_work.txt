@@ -1,0 +1,5 @@
+Kyle Doerrler, doerr029
+Liyu Qiang, qiang008
+
+--Division of Work Statement--
+We approached iteration 1 of the course project with a waterfall design process as the requirements for the scanner were well described and discussed in class. We decided upon the overall design together while working on the small homework assignment which laid out the necessary functionality and dependencies. For implementation Liyu took the lead on creating the token and scanner classes while Kyle focused on developing the tests. We used pair programming to help resolve issues. When one of us found some errors or ran into problems in our programs, we let the other know immediately and tried to fix the errors together, such as a seg fault occuring in the testing process which Liyu was able to solve by revising the tokenMaker_tester helper function.  Based on the tasks laid out in the assignment doc, the design of the scanner was done collaboratively, Kyle designed and constructed the testing process, and Liyu did the majority of the work in implementing the scanner which passed the tests. 
